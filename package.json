@@ -21,9 +21,16 @@
   },
   "homepage": "https://github.com/slTrust/gulu-180703#readme",
   "dependencies": {
-    "vue": "^2.5.16"
+    "vue": "^2.5.16",
+    "vue-hot-reload-api": "^2.3.0"
   },
   "devDependencies": {
-    "parcel-bundler": "^1.9.2"
+    "@vue/component-compiler-utils": "^2.1.0",
+    "less": "^3.0.4",
+    "parcel-bundler": "^1.9.2",
+    "vue-template-compiler": "^2.5.16"
+  },
+  "alias": {
+    "vue" : "./node_modules/vue/dist/vue.common.js"
   }
 }
