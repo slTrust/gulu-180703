@@ -38,13 +38,13 @@
 </head>
 <body>
 <div id="app">
-    <g-button>
+    <g-button :loading="loading1" @click="loading1 = !loading1">
         我爱
     </g-button>
-    <g-button icon="setting">
+    <g-button icon="setting" :loading="loading2" @click="loading2 = !loading2">
         我爱
     </g-button>
-    <g-button icon="setting" icon-position="right">
+    <g-button icon="setting" icon-position="right" :loading="loading3" @click="loading3 = !loading3">
         我爱
     </g-button>
     <g-icon name="download"></g-icon>
