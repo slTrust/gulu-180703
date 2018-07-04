@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="335508a7-5f81-4c18-bbe9-ea4bc93d83ca" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/button-group.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
-    </list>
+    <list default="true" id="335508a7-5f81-4c18-bbe9-ea4bc93d83ca" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -22,8 +17,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="55" column="51" selection-start-line="55" selection-start-column="51" selection-end-line="55" selection-end-column="51" />
+            <state relative-caret-position="270">
+              <caret line="53" column="19" lean-forward="true" selection-start-line="51" selection-start-column="8" selection-end-line="53" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -31,8 +26,8 @@
       <file leaf-file-name="button-group.vue" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/button-group.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+            <state relative-caret-position="190">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -175,7 +170,7 @@
       <updated>1530626407209</updated>
       <workItem from="1530626408654" duration="3117000" />
       <workItem from="1530629870412" duration="2000" />
-      <workItem from="1530712670931" duration="2733000" />
+      <workItem from="1530712670931" duration="2985000" />
     </task>
     <task id="LOCAL-00001" summary=" npm install vue">
       <created>1530626822378</created>
@@ -240,15 +235,28 @@
       <option name="project" value="LOCAL" />
       <updated>1530715003760</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="创建 button-group">
+      <created>1530715521149</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1530715521149</updated>
+    </task>
+    <task id="LOCAL-00011" summary="检测子元素是不是 button">
+      <created>1530715738594</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1530715738594</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5852000" />
+    <option name="totallyTimeSpent" value="6104000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15833333" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -288,7 +296,9 @@
     <MESSAGE value="将 svg 代码整理到 icon.vue" />
     <MESSAGE value="更新 button 里的 icon 样式" />
     <MESSAGE value="添加 click 事件" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加 click 事件" />
+    <MESSAGE value="创建 button-group" />
+    <MESSAGE value="检测子元素是不是 button" />
+    <option name="LAST_COMMIT_MESSAGE" value="检测子元素是不是 button" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -396,15 +406,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/button-group.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="55" column="51" selection-start-line="55" selection-start-column="51" selection-end-line="55" selection-end-column="51" />
+        <state relative-caret-position="270">
+          <caret line="53" column="19" lean-forward="true" selection-start-line="51" selection-start-column="8" selection-end-line="53" selection-end-column="19" />
         </state>
       </provider>
     </entry>
