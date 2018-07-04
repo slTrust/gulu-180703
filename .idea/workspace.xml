@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="335508a7-5f81-4c18-bbe9-ea4bc93d83ca" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,7 +22,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="199">
-              <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+              <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -29,10 +30,11 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2051">
-              <caret line="112" column="1" selection-start-line="112" selection-start-column="1" selection-end-line="112" selection-end-column="1" />
+            <state relative-caret-position="307">
+              <caret line="117" column="37" selection-start-line="117" selection-start-column="37" selection-end-line="117" selection-end-column="37" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
+                <element signature="e#346#369#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -146,7 +148,7 @@
       <updated>1530626407209</updated>
       <workItem from="1530626408654" duration="3117000" />
       <workItem from="1530629870412" duration="2000" />
-      <workItem from="1530712670931" duration="3409000" />
+      <workItem from="1530712670931" duration="3655000" />
     </task>
     <task id="LOCAL-00001" summary=" npm install vue">
       <created>1530626822378</created>
@@ -239,11 +241,18 @@
       <option name="project" value="LOCAL" />
       <updated>1530716115596</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="使用 chai.expect 添加四个测试用例，第五个不会">
+      <created>1530716565965</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1530716565965</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6528000" />
+    <option name="totallyTimeSpent" value="6774000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
@@ -291,7 +300,8 @@
     <MESSAGE value="检测子元素是不是 button" />
     <MESSAGE value="第一个元素不需要 margin-left:-1px" />
     <MESSAGE value="安装 chai" />
-    <option name="LAST_COMMIT_MESSAGE" value="安装 chai" />
+    <MESSAGE value="使用 chai.expect 添加四个测试用例，第五个不会" />
+    <option name="LAST_COMMIT_MESSAGE" value="使用 chai.expect 添加四个测试用例，第五个不会" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -307,6 +317,7 @@
           <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
+            <element signature="e#346#369#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -331,6 +342,7 @@
           <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
+            <element signature="e#346#369#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -397,16 +409,17 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="199">
-          <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2051">
-          <caret line="112" column="1" selection-start-line="112" selection-start-column="1" selection-end-line="112" selection-end-column="1" />
+        <state relative-caret-position="307">
+          <caret line="117" column="37" selection-start-line="117" selection-start-column="37" selection-end-line="117" selection-end-column="37" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
+            <element signature="e#346#369#0" expanded="true" />
           </folding>
         </state>
       </provider>
